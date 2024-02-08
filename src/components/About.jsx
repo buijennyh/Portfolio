@@ -9,19 +9,18 @@ const About = () => {
             <p className='text-4xl font-bold inline border-b-4 border-purple-300'>About
             </p>
           </div>
-        </div>
+        <div></div>
       </div>
       <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
         <div className='sm:text-right text-4xl font-bold'>
           <p>Welcome! My name is Jenny. Take a look around. </p>
         </div>
         <div>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit sint at unde blanditiis praesentium repudiandae delectus ducimus.
-          </p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit sint at unde blanditiis praesentium repudiandae delectus ducimus.</p>
         </div>
       </div>
     </div>
+  </div>
   )
 }
 
