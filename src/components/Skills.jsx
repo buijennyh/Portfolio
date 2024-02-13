@@ -11,7 +11,7 @@ import GitHub from '../assets/github.png'
 
 const Experience = () => {
   return (
-    <div name='experience' className='w-full h-screen bg-[#160a22] text-gray-300'>
+    <div name='experience' className='w-full h-screen bg-[#1f102f] text-gray-300'>
         {/* container */}
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div>

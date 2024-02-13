@@ -3,7 +3,7 @@ import {HiArrowNarrowRight} from 'react-icons/hi'
 
 const Home = () => {
   return (
-    <div name='home' className='w-full h-screen bg-[#160a22] text-slate-900'>
+    <div name='home' className='w-full h-screen bg-[#1f102f] text-slate-900'>
 
       {/*Container*/}
       <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
@@ -22,6 +22,6 @@ const Home = () => {
   )
 }
 
-{/*STOPPED HERE 40:45 URL: https://www.youtube.com/watch?v=2kg0z1qNrkw*/}
+{/*STOPPED HERE 60:00 URL: https://www.youtube.com/watch?v=2kg0z1qNrkw*/}
 
 export default Home
