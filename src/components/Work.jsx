@@ -18,7 +18,6 @@ const Work = () => {
         {/* Hover effect for images */}
                     <div>
                         <span>
-
                         </span>
                         <div>
                             <a href={"/"}>
