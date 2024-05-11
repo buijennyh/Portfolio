@@ -9,7 +9,7 @@ const Home = () => {
       <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
         <p className='text-[#8C8274]'>Welcome, my name is</p>
         <h1 className='text-4xl sm:text-7xl font-bold text-[#260906]'> Jenny B. </h1>
-        <h2 className='text-4xl sm-text-7xl font-bold text-[#8C8274]'>I am a Full-Stack Developer</h2> 
+        <h2 className='text-4xl sm-text-7xl font-bold text-[#8C8274]'>Full-Stack Developer</h2> 
         <p className='text-[#260906] py-4 mac-w-[700px'>Discription: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum dolore optio praesentium vitae porro facere doloremque, quo repellendus maxime voluptas eos ratione enim assumenda, autem consequatur debitis expedita quos quas?</p>
      
         <div>
@@ -22,6 +22,6 @@ const Home = () => {
   )
 }
 
-{/*STOPPED HERE 1:08:00 URL: https://www.youtube.com/watch?v=2kg0z1qNrkw*/}
+/*STOPPED HERE 1:08:00 URL: https://www.youtube.com/watch?v=2kg0z1qNrkw*/
 
 export default Home
